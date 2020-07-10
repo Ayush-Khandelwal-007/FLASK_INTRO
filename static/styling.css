@@ -13,9 +13,14 @@ table, td, th {
     border: 1px solid #aaa;
 }
 
+tr:nth-child(even){
+    background-color: #75d3ff;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 th {
