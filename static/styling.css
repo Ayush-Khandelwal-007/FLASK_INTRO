@@ -47,6 +47,11 @@ td:nth-child(even){
     background-color: rgb(153, 246, 76);
 }
 
+tr:first-child{
+    background-color: rgb(195, 82, 44);
+    color: rgb(52, 187, 131);
+}
+
 td:first-child{
     max-width: 1000px;
     min-width: 100px;
