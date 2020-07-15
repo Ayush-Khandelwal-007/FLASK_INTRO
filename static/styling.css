@@ -34,6 +34,7 @@ input{
 table, td, th {
     border: 1px solid rgb(240, 125, 125);
     opacity: 0.9;
+    text-transform: capitalize;
 }
 
 tr:nth-child(even){
